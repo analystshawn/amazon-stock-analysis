@@ -23,6 +23,4 @@ This repository contains an analysis of Amazon’s stock price over a selected t
 
 - `Amazon_stock_data.csv` — Raw stock data  
 - `https://docs.google.com/spreadsheets/d/1kY7IF2r2CmiLI-masuYMbAktvy0gDmtuhmE4OaAfxb0/edit?gid=0#gid=0` - Google Sheets with calculations and charts  
-- Screenshots of charts in `/charts/` directory  
-
 ---
